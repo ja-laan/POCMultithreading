@@ -1,0 +1,11 @@
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingBarrier\bin\Debug\netcoreapp3.1\MultithreadingBarrier.exe
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingBarrier\bin\Debug\netcoreapp3.1\MultithreadingBarrier.deps.json
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingBarrier\bin\Debug\netcoreapp3.1\MultithreadingBarrier.runtimeconfig.json
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingBarrier\bin\Debug\netcoreapp3.1\MultithreadingBarrier.runtimeconfig.dev.json
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingBarrier\bin\Debug\netcoreapp3.1\MultithreadingBarrier.dll
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingBarrier\bin\Debug\netcoreapp3.1\MultithreadingBarrier.pdb
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingBarrier\obj\Debug\netcoreapp3.1\MultithreadingBarrier.csprojAssemblyReference.cache
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingBarrier\obj\Debug\netcoreapp3.1\MultithreadingBarrier.AssemblyInfoInputs.cache
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingBarrier\obj\Debug\netcoreapp3.1\MultithreadingBarrier.AssemblyInfo.cs
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingBarrier\obj\Debug\netcoreapp3.1\MultithreadingBarrier.dll
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingBarrier\obj\Debug\netcoreapp3.1\MultithreadingBarrier.pdb

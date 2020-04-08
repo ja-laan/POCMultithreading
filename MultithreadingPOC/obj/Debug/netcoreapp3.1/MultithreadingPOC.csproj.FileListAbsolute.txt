@@ -1,0 +1,11 @@
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingPOC\bin\Debug\netcoreapp3.1\MultithreadingPOC.exe
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingPOC\bin\Debug\netcoreapp3.1\MultithreadingPOC.deps.json
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingPOC\bin\Debug\netcoreapp3.1\MultithreadingPOC.runtimeconfig.json
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingPOC\bin\Debug\netcoreapp3.1\MultithreadingPOC.runtimeconfig.dev.json
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingPOC\bin\Debug\netcoreapp3.1\MultithreadingPOC.dll
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingPOC\bin\Debug\netcoreapp3.1\MultithreadingPOC.pdb
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingPOC\obj\Debug\netcoreapp3.1\MultithreadingPOC.csprojAssemblyReference.cache
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingPOC\obj\Debug\netcoreapp3.1\MultithreadingPOC.AssemblyInfoInputs.cache
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingPOC\obj\Debug\netcoreapp3.1\MultithreadingPOC.AssemblyInfo.cs
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingPOC\obj\Debug\netcoreapp3.1\MultithreadingPOC.dll
+C:\Users\Joost\source\repos\MultithreadingPOC\MultithreadingPOC\obj\Debug\netcoreapp3.1\MultithreadingPOC.pdb

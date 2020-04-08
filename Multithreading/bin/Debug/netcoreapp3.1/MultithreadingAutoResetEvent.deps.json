@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MultithreadingAutoResetEvent/1.0.0": {
+        "runtime": {
+          "MultithreadingAutoResetEvent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultithreadingAutoResetEvent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

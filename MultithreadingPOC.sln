@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingAutoResetEvent", "Multithreading\MultithreadingAutoResetEvent.csproj", "{1F3C7CBD-458E-4F26-97F3-F606098A9374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingBarrier", "MultithreadingBarrier\MultithreadingBarrier.csproj", "{0B57B422-CF96-445C-8DBE-E9D7D25B13FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingPOC", "MultithreadingPOC\MultithreadingPOC.csproj", "{C0DCE185-9535-4C19-962F-633D50939726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F3C7CBD-458E-4F26-97F3-F606098A9374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3C7CBD-458E-4F26-97F3-F606098A9374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3C7CBD-458E-4F26-97F3-F606098A9374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3C7CBD-458E-4F26-97F3-F606098A9374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B57B422-CF96-445C-8DBE-E9D7D25B13FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B57B422-CF96-445C-8DBE-E9D7D25B13FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B57B422-CF96-445C-8DBE-E9D7D25B13FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B57B422-CF96-445C-8DBE-E9D7D25B13FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0DCE185-9535-4C19-962F-633D50939726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DCE185-9535-4C19-962F-633D50939726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DCE185-9535-4C19-962F-633D50939726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DCE185-9535-4C19-962F-633D50939726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDE7B178-5474-497A-BFA8-1614B7154394}
+	EndGlobalSection
+EndGlobal

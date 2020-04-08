@@ -1,0 +1,10 @@
+C:\Users\Joost\source\repos\MultithreadingPOC\Multithreading\bin\Debug\netcoreapp3.1\MultithreadingAutoResetEvent.exe
+C:\Users\Joost\source\repos\MultithreadingPOC\Multithreading\bin\Debug\netcoreapp3.1\MultithreadingAutoResetEvent.deps.json
+C:\Users\Joost\source\repos\MultithreadingPOC\Multithreading\bin\Debug\netcoreapp3.1\MultithreadingAutoResetEvent.runtimeconfig.json
+C:\Users\Joost\source\repos\MultithreadingPOC\Multithreading\bin\Debug\netcoreapp3.1\MultithreadingAutoResetEvent.runtimeconfig.dev.json
+C:\Users\Joost\source\repos\MultithreadingPOC\Multithreading\bin\Debug\netcoreapp3.1\MultithreadingAutoResetEvent.dll
+C:\Users\Joost\source\repos\MultithreadingPOC\Multithreading\bin\Debug\netcoreapp3.1\MultithreadingAutoResetEvent.pdb
+C:\Users\Joost\source\repos\MultithreadingPOC\Multithreading\obj\Debug\netcoreapp3.1\MultithreadingAutoResetEvent.AssemblyInfoInputs.cache
+C:\Users\Joost\source\repos\MultithreadingPOC\Multithreading\obj\Debug\netcoreapp3.1\MultithreadingAutoResetEvent.AssemblyInfo.cs
+C:\Users\Joost\source\repos\MultithreadingPOC\Multithreading\obj\Debug\netcoreapp3.1\MultithreadingAutoResetEvent.dll
+C:\Users\Joost\source\repos\MultithreadingPOC\Multithreading\obj\Debug\netcoreapp3.1\MultithreadingAutoResetEvent.pdb
