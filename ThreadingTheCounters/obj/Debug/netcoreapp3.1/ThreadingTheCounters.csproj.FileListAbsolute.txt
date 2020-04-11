@@ -1,0 +1,10 @@
+C:\Users\Joost\source\repos\MultithreadingPOC\ThreadingTheCounters\bin\Debug\netcoreapp3.1\ThreadingTheCounters.exe
+C:\Users\Joost\source\repos\MultithreadingPOC\ThreadingTheCounters\bin\Debug\netcoreapp3.1\ThreadingTheCounters.deps.json
+C:\Users\Joost\source\repos\MultithreadingPOC\ThreadingTheCounters\bin\Debug\netcoreapp3.1\ThreadingTheCounters.runtimeconfig.json
+C:\Users\Joost\source\repos\MultithreadingPOC\ThreadingTheCounters\bin\Debug\netcoreapp3.1\ThreadingTheCounters.runtimeconfig.dev.json
+C:\Users\Joost\source\repos\MultithreadingPOC\ThreadingTheCounters\bin\Debug\netcoreapp3.1\ThreadingTheCounters.dll
+C:\Users\Joost\source\repos\MultithreadingPOC\ThreadingTheCounters\bin\Debug\netcoreapp3.1\ThreadingTheCounters.pdb
+C:\Users\Joost\source\repos\MultithreadingPOC\ThreadingTheCounters\obj\Debug\netcoreapp3.1\ThreadingTheCounters.AssemblyInfoInputs.cache
+C:\Users\Joost\source\repos\MultithreadingPOC\ThreadingTheCounters\obj\Debug\netcoreapp3.1\ThreadingTheCounters.AssemblyInfo.cs
+C:\Users\Joost\source\repos\MultithreadingPOC\ThreadingTheCounters\obj\Debug\netcoreapp3.1\ThreadingTheCounters.dll
+C:\Users\Joost\source\repos\MultithreadingPOC\ThreadingTheCounters\obj\Debug\netcoreapp3.1\ThreadingTheCounters.pdb
