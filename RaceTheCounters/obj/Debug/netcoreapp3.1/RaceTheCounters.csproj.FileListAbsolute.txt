@@ -1,0 +1,11 @@
+C:\Users\Joost\source\repos\MultithreadingPOC\RaceTheCounters\bin\Debug\netcoreapp3.1\RaceTheCounters.exe
+C:\Users\Joost\source\repos\MultithreadingPOC\RaceTheCounters\bin\Debug\netcoreapp3.1\RaceTheCounters.deps.json
+C:\Users\Joost\source\repos\MultithreadingPOC\RaceTheCounters\bin\Debug\netcoreapp3.1\RaceTheCounters.runtimeconfig.json
+C:\Users\Joost\source\repos\MultithreadingPOC\RaceTheCounters\bin\Debug\netcoreapp3.1\RaceTheCounters.runtimeconfig.dev.json
+C:\Users\Joost\source\repos\MultithreadingPOC\RaceTheCounters\bin\Debug\netcoreapp3.1\RaceTheCounters.dll
+C:\Users\Joost\source\repos\MultithreadingPOC\RaceTheCounters\bin\Debug\netcoreapp3.1\RaceTheCounters.pdb
+C:\Users\Joost\source\repos\MultithreadingPOC\RaceTheCounters\obj\Debug\netcoreapp3.1\RaceTheCounters.csprojAssemblyReference.cache
+C:\Users\Joost\source\repos\MultithreadingPOC\RaceTheCounters\obj\Debug\netcoreapp3.1\RaceTheCounters.AssemblyInfoInputs.cache
+C:\Users\Joost\source\repos\MultithreadingPOC\RaceTheCounters\obj\Debug\netcoreapp3.1\RaceTheCounters.AssemblyInfo.cs
+C:\Users\Joost\source\repos\MultithreadingPOC\RaceTheCounters\obj\Debug\netcoreapp3.1\RaceTheCounters.dll
+C:\Users\Joost\source\repos\MultithreadingPOC\RaceTheCounters\obj\Debug\netcoreapp3.1\RaceTheCounters.pdb
